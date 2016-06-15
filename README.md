@@ -1,6 +1,6 @@
 # Perkins
 
-6/8 dots [Perkins Brailler](https://en.wikipedia.org/wiki/Perkins_Brailler) for javascript. 
+6/8 dots [Perkins Brailler](https://en.wikipedia.org/wiki/Perkins_Brailler) for browsers.
 
 ## Usage
 
