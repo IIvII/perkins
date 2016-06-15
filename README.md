@@ -30,3 +30,7 @@ Check if given key is used by a Perkins object
 	perkins.keyInUse(32);
 	// returns true
 
+## Demo
+
+[https://github.com/IIvII/perkins](https://github.com/IIvII/perkins)
+
