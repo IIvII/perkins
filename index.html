@@ -1,1 +1,30 @@
-My Page
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Perkins input</title>
+  <style>
+    #braille { font-size : 15em;}
+  </style>
+</head>
+<body>
+  <h1>Perkins input demo</h1>
+  <div>
+    <p>Key mapping : aze / iop / space </p>
+    <p>Output Baille chararacter should appear below :</p>
+  </div>
+  <div id="braille"></div>
+  <script src="bundle.js"></script>
+  <!--
+var Perkins = require('perkins');
+
+var perkins = new Perkins({
+    element : document.body,
+    keyCodes : [32,65,90,69,73,79,80],
+    onCharacter : function(perkinsEvent) {
+	document.getElementById('braille').innerHTML = perkinsEvent.key;
+    }
+}).listen()
+    -->
+</body>
+</html>
