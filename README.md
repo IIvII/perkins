@@ -32,5 +32,5 @@ Check if given key is used by a Perkins object
 
 ## Demo
 
-[https://github.com/IIvII/perkins](https://github.com/IIvII/perkins)
+[https://iivii.github.io/perkins/](https://iivii.github.io/perkins/)
 
