@@ -1,0 +1,16 @@
+{
+  "name": "perkins",
+  "version": "1.0.0-alpha.0",
+  "description": "Braille Perkins input method for Browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Braille",
+    "Perkins",
+    "Browser"
+  ],
+  "author": "IIvII",
+  "license": "GPL-3.0"
+}
